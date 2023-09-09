@@ -1,4 +1,4 @@
-# SimpleFi-Assignments
+# SimplyFI-Assignments
 
 Assignment 1:
 Design the logo provided as an attachment using HTML and CSS
